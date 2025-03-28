@@ -1,4 +1,4 @@
-                                                                Digital Clock Web Project 🕒💻
+                                                   Digital Clock Web Project 🕒💻
 This Digital Clock Web Project is a simple yet elegant real-time clock built using HTML, CSS, and JavaScript. It dynamically displays the current time with smooth animations and a stylish design.
 ![digitalss](https://github.com/user-attachments/assets/af656e99-a4cd-4e47-93ed-18ef1400d45e)
 🛠️ Technology Used:
